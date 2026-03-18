@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # jxus-ai
 AI Agent with OSS Ollama LLMs.
 =======
@@ -30,4 +29,3 @@ Once the model is pulled, your AI agent is ready! Open your browser and navigate
 [http://localhost:3000](http://localhost:3000)
 
 Enjoy your fast, private, locally hosted AI chat agent!
->>>>>>> b397a21 (Initial commit - AI agent backend + frontend)
